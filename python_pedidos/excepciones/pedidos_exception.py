@@ -1,0 +1,1 @@
+class PedidosException(Exception): pass
